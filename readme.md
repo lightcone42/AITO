@@ -1,18 +1,20 @@
-this open sourced company is named AITO which stands for: AI THAT is OPEN
+this **open sourced company is named AITO** which stands for: **AI THAT is OPEN**
+- **our goal is to build OSI:** an Open sourced Super Inelligence sold to consumers  
 
-our goal is to build OSI: an Open sourced Super Inelligence sold to consumers  
+- we guartuntee that **more than 50% of profits** will always be distributed to customers of OSI
 
-we guartuntee that more than 50% of profits will always be distributed to customers of OSI
-
-the remaining profits will be given to contributors of this repository
-
+- the remaining profits will be given **to contributors of this repository**
 
 
-our first product: 
-- we securely store an individuals personalized thoughts. we help individuals and organizations organize their data so that AI models can more efficiently access it. AI models using our data will (1) be faster and (2) provide personal responses
+
+**our first product:** 
+- we securely store an individuals personalized thoughts. we help individuals and organizations organize their data so that AI models can more efficiently access it. AI models using data we have organized and collected will (1) be faster and (2) provide personal responses
+
+
+**our beliefs**
 - we believe that we can reach super intelligence be combining LLMs with a crowdsourced “meta algorithm” that accounts for *time*
 - we need to make open source AI win
-- we can ensure that profits from AI get universially distributed across the globe. No human is can be denied a portion of our profits
+- profits from AI should go to all people
 
 
 
